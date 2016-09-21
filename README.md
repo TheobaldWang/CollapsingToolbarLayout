@@ -16,5 +16,5 @@
 ## 这里使用的gradle版本为：classpath 'com.android.tools.build:gradle:2.0.0'
 
 ## 效果图：
-![](http://i.imgur.com/ZSDUri2.gif)
+### 可以移驾至csdn看下效果图[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)
 
