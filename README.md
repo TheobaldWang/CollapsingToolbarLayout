@@ -15,4 +15,4 @@
    这里使用的gradle版本为：classpath 'com.android.tools.build:gradle:2.0.0'
 
    效果图：
-  ![](http://i.imgur.com/ZSDUri2.gif)
+  ![这里写图片描述](http://i.imgur.com/ZSDUri2.gif)
