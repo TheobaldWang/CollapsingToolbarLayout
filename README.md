@@ -16,5 +16,12 @@
 ## 这里使用的gradle版本为：classpath 'com.android.tools.build:gradle:2.0.0'
 
 ## 效果图：
-### 可以移驾至csdn看下效果图[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)
+###1. 图片折叠效果
+ 
+![](http://img.blog.csdn.net/20160922111152469)
+
+###2. RecyclerView拖拽排序效果
+
+![](http://img.blog.csdn.net/20160922111411363)
+### CSDN博客地址：[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)
 
