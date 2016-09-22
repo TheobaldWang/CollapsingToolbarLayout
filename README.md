@@ -15,13 +15,10 @@
 
 ## 这里使用的gradle版本为：classpath 'com.android.tools.build:gradle:2.0.0'
 
-## 效果图：(在本地MD可看图片效果上传到这里，gif图片就少帧了。)
+## 效果图：(在本地MD可看图片效果上传到这里，gif图片就少帧了...可以下载screenShot文件夹里的效果图)
 ###1. 图片折叠效果
  
 ![](http://img.blog.csdn.net/20160922111152469)
-
-###2. RecyclerView拖拽排序效果
-
-![](http://img.blog.csdn.net/20160922111411363)
 ### CSDN博客地址：[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)
+### 如果你遇到了什么问题，可以与我联系。
 
