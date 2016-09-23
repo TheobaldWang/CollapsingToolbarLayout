@@ -15,7 +15,7 @@
 
 ## 这里使用的gradle版本为：classpath 'com.android.tools.build:gradle:2.0.0'
 
-## 效果图：(下载screenShot文件夹里的gif）
+## 效果图：(下载screenShot文件夹里的gif或者点此链接[http://img.blog.csdn.net/20160923115346022](http://img.blog.csdn.net/20160923115346022 "效果图")）
 
 ![](http://img.blog.csdn.net/20160923115346022)
 
