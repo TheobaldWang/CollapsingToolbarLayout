@@ -16,6 +16,7 @@
 ### app:contentScrim="#1dcdef" 设置当完全CollapsingToolbarLayout折叠(收缩)后的背景颜色
 ### app:expandedTitleMarginStart="48dp"//设置扩张时候(还没有收缩时)title向左填充的距离
 ### app:layout_collapseMode="parallax"//设置为这个模式时，在内容滚动时，CollapsingToolbarLayout中的View（比如ImageView)也可以同时滚动，实现视差滚动效果，通常和layout_collapseParallaxMultiplier(设置视差因子)搭配使用app:contentScrim="#1dcdef" 设置当完全CollapsingToolbarLayout折叠(收缩)后的背景颜色
+
 ### app:layout_collapseParallaxMultiplier="0.7"//设置视差滚动因子，值为：0~1
 ### app:layout_collapseMode="pin"//pin设置为这个模式时，当CollapsingToolbarLayout完全收缩后，Toolbar还可以保留在屏幕上
 ### app:layout_collapseMode="parallax"//设置为这个模式时，在内容滚动时，CollapsingToolbarLayout中的View（比如ImageView)也可以同时滚动，实现视差滚动效果，通常和layout_collapseParallaxMultiplier(设置视差因子)搭配使用
