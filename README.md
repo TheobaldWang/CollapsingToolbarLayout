@@ -26,7 +26,7 @@
 #### RecyclerView实现了拖拽排序效果
 
 ### 效果图：
-![](https://github.com/azhong1011/CollapsingToolbarLayout/blob/master/screenShot/GIF.gif)
+![](https://github.com/azhong1011/CollapsingToolbarLayout/blob/master/screenShot/GIF.gif)![](https://github.com/azhong1011/CollapsingToolbarLayout/blob/master/screenShot/Screenshot_2016-09-21-12-39-18.png)
 
 #### CSDN博客地址：[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)   欢迎Issues
 # LICENSE
