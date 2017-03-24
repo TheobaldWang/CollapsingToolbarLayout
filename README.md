@@ -28,8 +28,7 @@
 ### 效果图：
 ![](http://img.blog.csdn.net/20161020100053315)
 
-#### CSDN博客地址：[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)
-#### 欢迎Issues
+#### CSDN博客地址：[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)   欢迎Issues
 # LICENSE
    Copyright [2016-09-21] [阿钟]
 
