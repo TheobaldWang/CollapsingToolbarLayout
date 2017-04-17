@@ -29,7 +29,7 @@
 <img src="https://github.com/azhong1011/CollapsingToolbarLayout/blob/master/screenShot/GIF.gif">
 
 #### CSDN博客地址：[http://blog.csdn.net/a_zhon/article/details/52611166](http://blog.csdn.net/a_zhon/article/details/52611166)   欢迎Issues
-# LICENSE
+## LICENSE
    Copyright [2016-09-21] [阿钟]
 
    Licensed under the Apache License, Version 2.0 (the "License");
